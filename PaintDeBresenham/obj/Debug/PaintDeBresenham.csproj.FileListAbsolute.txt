@@ -1,0 +1,11 @@
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\bin\Debug\PaintDeBresenham.exe.config
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\bin\Debug\PaintDeBresenham.exe
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\bin\Debug\PaintDeBresenham.pdb
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.csprojAssemblyReference.cache
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.PaintDeBresenham.resources
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.Properties.Resources.resources
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.csproj.GenerateResource.cache
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.csproj.CoreCompileInputs.cache
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.exe
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.pdb
+C:\Users\KevinCaballero\source\repos\PaintDeBresenham\PaintDeBresenham\obj\Debug\PaintDeBresenham.AcercaDe.resources
